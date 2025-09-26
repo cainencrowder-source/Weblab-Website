@@ -1,4 +1,5 @@
 import streamlit as st
+import sidebar
 
 # Title of App
 st.title("Web Development Lab01")
@@ -26,4 +27,7 @@ Welcome to my Streamlit Web Development Lab01 app! You can navigate between the 
 
 
 """)
+
+# render shared sidebar links
+sidebar.render_links()
 
