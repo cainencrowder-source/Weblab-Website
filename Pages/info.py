@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "../Images/Cainen Headshot.jpeg"
+profile_picture = "../Images/CainenHeadshot.jpeg"
 about_me = "I'm Cainen Crowder, an Industrial Engineering student, here at Georgia Tech. I have a strong interest in civil engineering, consulting, and sustainable development. I am originally from Cartersville, Georgia, and my background combines academic study with hands-on experience in both the public and private sectors. I have worked with the Bartow County Engineering Department on infrastructure and stormwater projects, as well as in real estate management and appraisals. Beyond engineering, I serve as Music Director for local theatre productions and am active in campus life through WREK Radio and Delta Chi fraternity, where I hold leadership roles. My goal is to bridge technical problem-solving with creativity, teamwork, and community impact. . "
 
 
