@@ -104,5 +104,12 @@ if st.button("Submit My Answers!"):
         st.balloons()#New
     else:
         st.warning("Keep exploring! Music is a universe waiting for you.")
+        
+        import os, pathlib
+        img_dir = pathlib.Path(__file__).parent.parent / "Images"
+        st.write("Images dir:", img_dir, "exists:", img_dir.exists())
+        st.write("Files in Images:", [repr(p.name) for p in img_dir.iterdir()] if img_dir.exists() else "N/A")
+        st.write("Target exists:", os.path.exists('../Images/your_learning.png'))
+        
         st.image('../Images/your_learning.png', caption="Time to study up!", width=300)
           #New
