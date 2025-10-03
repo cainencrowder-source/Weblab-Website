@@ -105,5 +105,5 @@ if st.button("Submit My Answers!"):
         st.balloons()#New
     else:
         st.warning("Keep exploring! Music is a universe waiting for you.")
-        st.image('/Users/cainencrowder/Downloads/WebDevLab01 2/WebDevLab01/images/Your Learning.png', caption="Time to study up!", width=300)
+        st.image('/Users/cainencrowder/Downloads/WebDevLab01 2/WebDevLab01/Images/Your Learning.png', caption="Time to study up!", width=300)
           #New
