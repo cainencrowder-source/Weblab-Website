@@ -27,6 +27,4 @@ Welcome to my Streamlit Web Development Lab01 app! You can navigate between the 
 
 """)
 
-# render shared sidebar links
-sidebar.render_links()
 
