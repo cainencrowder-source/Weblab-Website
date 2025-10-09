@@ -100,7 +100,7 @@ if st.button("Submit My Answers!"):
     st.subheader("Your Post-Quiz Vibe Check")
     if score >= 4:
         st.success("You are a TRUE MUSIC MAN! 🏆")
-        st.image('/Users/cainencrowder/Downloads/WebDevLab01 2/WebDevLab01/Images/Trophy.jpg', caption="Your Vibes Are TOO GOOD, ROCK ON🤘", width=300)
+        st.image('Images/Trophy.jpg', caption="Your Vibes Are TOO GOOD, ROCK ON🤘", width=300)
          #New
         st.balloons()#New
     else:
