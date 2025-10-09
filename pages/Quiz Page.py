@@ -38,7 +38,7 @@ QUIZ_QUESTIONS = {
 
 st.title("🎧 The Ultimate Musical Genre Challenge 🎶")
 st.write("Test your knowledge across the musical spectrum, from the club to the concert hall!")
-st.image('/Users/cainencrowder/Downloads/WebDevLab01 2/WebDevLab01/Images/music.jpg', caption="Which genre is calling you?", use_container_width=True)
+st.image('Images/music.jpg', caption="Which genre is calling you?", use_container_width=True)
 
 score = 0
 results = {}
