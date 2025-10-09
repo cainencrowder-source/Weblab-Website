@@ -1,5 +1,4 @@
 import streamlit as st
-import sidebar
 
 # Title of App
 st.title("Web Development Lab01")
